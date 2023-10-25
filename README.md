@@ -29,9 +29,9 @@ O objetivo da aplicação é para que o contador aumente em um sempre que o bot�
 ```
 
 <p align="center">
-<img src="./src/assets/IMG/1.png" width="100%">
-<img src="./src/assets/IMG/2.png" width="100%">
-<img src="./src/assets/IMG/3.png" width="100%">
+<img src="https://github.com/giljrsantos/contador-simples-angular/blob/master/src/assets/img/1.png" width="100%">
+<img src="https://github.com/giljrsantos/contador-simples-angular/blob/master/src/assets/img/2.png" width="100%">
+<img src="https://github.com/giljrsantos/contador-simples-angular/blob/master/src/assets/img/3.png" width="100%">
 </p>
 
 
