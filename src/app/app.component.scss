@@ -1,0 +1,32 @@
+div.mainArea {
+  border: 5px dashed #f00;
+  background-color: antiquewhite;
+  display: grid;
+  padding: 20px;
+  margin: 15% auto auto auto;
+  border-radius: 3px;
+  width: 30%;
+}
+
+.mainArea p {
+  background-color: aqua;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  font-size: 2rem;
+  color: #000;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.mainArea button {
+  background-color: aqua;
+  border-radius: 5px;
+  padding: 20px;
+  border: none;
+  font-size: 2rem;
+  color: #000;
+  margin: auto;
+  margin-top: 10px;
+}
